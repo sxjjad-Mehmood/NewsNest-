@@ -1,4 +1,4 @@
-# 📰 NewsApp
+# 📰 NewsNest
 
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
