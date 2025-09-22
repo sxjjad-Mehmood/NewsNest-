@@ -23,7 +23,7 @@ The app provides **real-time headlines, categories, and detailed article views**
 - **Flutter** – Cross-platform framework
 - **Dart** – Programming language
 - **NewsAPI** – For fetching live news data
-- **Provider / State Management** – To handle app state (if used)
+  
 
 ---
 
